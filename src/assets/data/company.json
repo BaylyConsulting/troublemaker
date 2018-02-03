@@ -1,11 +1,11 @@
 {
   "name": "Trouble Maker Media",
   "logo": "/assets/i/logo.png",
-  "address": "7190 W Sunset Blvd",
-  "address2": "Suite 100",
-  "city": "Los Angeles",
-  "state": "CA",
-  "zip": "90046",
+  "address": "6 Liberty Square",
+   "address2": "Suite 324",
+   "city": "Boston",
+   "state": "MA",
+   "zip": "02109",
   "phone": "800.916.8502",
   "email": "info@troublemakermedia.org"
 }
